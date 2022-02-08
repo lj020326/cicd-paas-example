@@ -1,0 +1,5 @@
+*/node_modules/*
+*/cucumber-report.json
+
+.idea/
+save/
